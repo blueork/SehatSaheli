@@ -1,0 +1,24 @@
+langchain
+langchain-core
+langchain-openai
+langchain-ollama
+langchain-community
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+hf-xet
+arxiv
+wikipedia
+langchainhub
+googletrans
+streamlit
+# shutil
+langgraph
